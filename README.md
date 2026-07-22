@@ -1,2 +1,2 @@
-# SQL-Task-1-Student-Database
-SQL Task 1 – Student Database | MySQL project covering database creation, table management,
+# SQL-Task
+SQL Task | MySQL project covering database creation, table management,
